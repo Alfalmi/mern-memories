@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/mern-memories/static/css/main.0f99be02.chunk.css",
-    "main.js": "/mern-memories/static/js/main.d33d2012.chunk.js",
-    "main.js.map": "/mern-memories/static/js/main.d33d2012.chunk.js.map",
+    "main.js": "/mern-memories/static/js/main.0668c2b2.chunk.js",
+    "main.js.map": "/mern-memories/static/js/main.0668c2b2.chunk.js.map",
     "runtime-main.js": "/mern-memories/static/js/runtime-main.3d3f0bf7.js",
     "runtime-main.js.map": "/mern-memories/static/js/runtime-main.3d3f0bf7.js.map",
     "static/js/2.bb4f8849.chunk.js": "/mern-memories/static/js/2.bb4f8849.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.3d3f0bf7.js",
     "static/js/2.bb4f8849.chunk.js",
     "static/css/main.0f99be02.chunk.css",
-    "static/js/main.d33d2012.chunk.js"
+    "static/js/main.0668c2b2.chunk.js"
   ]
 }
