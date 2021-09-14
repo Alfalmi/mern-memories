@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/mern-memories/static/css/main.0f99be02.chunk.css",
-    "main.js": "/mern-memories/static/js/main.9caa0a80.chunk.js",
-    "main.js.map": "/mern-memories/static/js/main.9caa0a80.chunk.js.map",
+    "main.js": "/mern-memories/static/js/main.ea7aee86.chunk.js",
+    "main.js.map": "/mern-memories/static/js/main.ea7aee86.chunk.js.map",
     "runtime-main.js": "/mern-memories/static/js/runtime-main.3d3f0bf7.js",
     "runtime-main.js.map": "/mern-memories/static/js/runtime-main.3d3f0bf7.js.map",
-    "static/js/2.8b4a2f52.chunk.js": "/mern-memories/static/js/2.8b4a2f52.chunk.js",
-    "static/js/2.8b4a2f52.chunk.js.map": "/mern-memories/static/js/2.8b4a2f52.chunk.js.map",
+    "static/js/2.bb4f8849.chunk.js": "/mern-memories/static/js/2.bb4f8849.chunk.js",
+    "static/js/2.bb4f8849.chunk.js.map": "/mern-memories/static/js/2.bb4f8849.chunk.js.map",
     "index.html": "/mern-memories/index.html",
     "static/css/main.0f99be02.chunk.css.map": "/mern-memories/static/css/main.0f99be02.chunk.css.map",
-    "static/js/2.8b4a2f52.chunk.js.LICENSE.txt": "/mern-memories/static/js/2.8b4a2f52.chunk.js.LICENSE.txt",
+    "static/js/2.bb4f8849.chunk.js.LICENSE.txt": "/mern-memories/static/js/2.bb4f8849.chunk.js.LICENSE.txt",
     "static/media/memories.b55f4763.png": "/mern-memories/static/media/memories.b55f4763.png"
   },
   "entrypoints": [
     "static/js/runtime-main.3d3f0bf7.js",
-    "static/js/2.8b4a2f52.chunk.js",
+    "static/js/2.bb4f8849.chunk.js",
     "static/css/main.0f99be02.chunk.css",
-    "static/js/main.9caa0a80.chunk.js"
+    "static/js/main.ea7aee86.chunk.js"
   ]
 }
