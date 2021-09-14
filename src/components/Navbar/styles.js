@@ -11,7 +11,7 @@ export default makeStyles((theme) => ({
     alignItems: 'center',
     padding: '10px 50px',
     flexWrap: 'wrap',
-    justifyContent: 'center',
+    justifyContent: 'space-between',
   },
   heading: {
     color: 'rgba(0,183,255, 1)',
@@ -22,7 +22,7 @@ export default makeStyles((theme) => ({
   },
   toolbar: {
     display: 'flex',
-    justifyContent: 'flex-end',
+    justifyContent: 'center',
     width: '400px',
   },
   profile: {
@@ -42,4 +42,7 @@ export default makeStyles((theme) => ({
     color: theme.palette.getContrastText(deepPurple[500]),
     backgroundColor: deepPurple[500],
   },
+  logout: {
+    marginRight: "100px"
+  }
 }));
