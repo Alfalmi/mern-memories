@@ -80,8 +80,10 @@ const Navbar = () => {
           >
             Sign In
           </Button>
+          
         )}
       </Toolbar>
+      
     </AppBar>
   );
 };
